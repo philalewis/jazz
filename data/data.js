@@ -3,11 +3,13 @@ module.exports = [
     name: 'Miles Davis',
     id: '1',
     instrument: 'Trumpet',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Miles_Davis_by_Palumbo_cropped.jpg/1280px-Miles_Davis_by_Palumbo_cropped.jpg',
     albums: [
       {
         id: 101,
         title: 'Birth of the Cool',
         releaseYear: 1957,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/a8/Birth_of_the_Cool.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet'},
           {name: 'Kai Winding', instrument: 'trombone'},
@@ -175,6 +177,7 @@ module.exports = [
     name: 'John Coltrane',
     id: '2',
     instrument: 'Saxophone',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/John_Coltrane_in_1963.jpg/1920px-John_Coltrane_in_1963.jpg',
     albums: [
       {
         id: 201,
@@ -258,6 +261,7 @@ module.exports = [
     name: 'Thelonious Monk',
     id: '3',
     instrument: 'Piano',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg/1920px-Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg',
     albums: [
       {
         id: 301,
@@ -327,6 +331,7 @@ module.exports = [
     name: 'Charles Mingus',
     id: '4',
     instrument: 'Double Bass',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Charles_Mingus_1976_cropped.jpg',
     albums: [
       {
         id: 401,
@@ -385,6 +390,7 @@ module.exports = [
     name: 'Duke Ellington',
     id: '5',
     instrument: 'Piano',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Duke_Ellington_-_publicity.JPG',
     albums: [
       {
         id: 501,
@@ -498,6 +504,7 @@ module.exports = [
     name: 'Dave Brubeck',
     id: '6',
     instrument: 'Piano',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dave_Brubeck_%281964%29.jpg/1024px-Dave_Brubeck_%281964%29.jpg',
     albums: [
       {
         id: 601,
@@ -550,6 +557,7 @@ module.exports = [
     name: 'Bill Evans',
     id: '7',
     instrument: 'Piano',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bill_Evans_%281961_publicity_photo_by_Steve_Schapiro%29.jpg/1280px-Bill_Evans_%281961_publicity_photo_by_Steve_Schapiro%29.jpg',
     albums: [
       {
         id: 701,
@@ -616,6 +624,7 @@ module.exports = [
     name: 'Herbie Hancock',
     id: '8',
     instrument: 'Piano',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HERBIE_HANCOCK_1999.jpg/1024px-HERBIE_HANCOCK_1999.jpg',
     albums: [
       {
         id: 801,
@@ -681,6 +690,7 @@ module.exports = [
     name: 'Art Blakey',
     id: '9',
     instrument: 'Drums',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Art_Blakey.jpg',
     albums: [
       {
         id: 901,
@@ -738,6 +748,7 @@ module.exports = [
     name: 'Chet Baker',
     id: '10',
     instrument: 'Trumpet',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg',
     albums: [
       {
         id: 1001,
@@ -783,6 +794,7 @@ module.exports = [
     name: 'Wes Montgomergy',
     id: '11',
     instrument: 'guitar',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/2/24/Wes_Montgomery_%281967%29.jpg',
     albums: [
       {
         id: 1101,
@@ -883,6 +895,7 @@ module.exports = [
     name: 'Charlie Parker',
     id: '12',
     instrument: 'Saxophone',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Portrait_of_Charlie_Parker_in_1947.jpg/1920px-Portrait_of_Charlie_Parker_in_1947.jpg',
     albums: [
       {
         id: 1201,
@@ -949,6 +962,7 @@ module.exports = [
     name: 'Count Basie',
     id: '13',
     instrument: 'Piano',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Count_Basie_%281955_Kriegsmann_portrait_-_square_crop%29.jpg',
     albums: [
       {
         id: 1301,
@@ -1031,16 +1045,17 @@ module.exports = [
     ]
   },
   {
-    name: 'McCoy Turner',
+    name: 'McCoy Tyner',
     id: '14',
     instrument: 'Piano',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/1/13/Mccoy_Tyner_1973_gh.jpg',
     albums: [
       {
         id: 1401,
         title: 'Sahara',
         releaseYear: 1972,
         musicians: [
-          {name: 'McCoy Turner', instrument: 'piano, koto, percussion, flute'},
+          {name: 'McCoy Tyner', instrument: 'piano, koto, percussion, flute'},
           {name: 'Sonny Fortune', instrument: 'alto saxophone, soprano saxophone, flute'},
           {name: 'Calvin Hill', instrument: 'bass, reeds, percussion'},
           {name: 'Alphonse Mouzon', instrument: 'drums, trumpet, reeds, percussion'},
@@ -1051,7 +1066,7 @@ module.exports = [
         title: 'Enlightenment',
         releaseYear: 1973,
         musicians: [
-          {name: 'McCoy Turner', instrument: 'piano, percussion'},
+          {name: 'McCoy Tyner', instrument: 'piano, percussion'},
           {name: 'Azar Lawrence', instrument: 'tenor saxophone, soprano saxophone'},
           {name: 'Juni Booth', instrument: 'bass'},
           {name: 'Alphonse Mouzon', instrument: 'drums'}
@@ -1063,6 +1078,7 @@ module.exports = [
     name: 'Ornette Coleman',
     id: '15',
     instrument: 'Saxophone',
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Ornette-Coleman-2008-Heidelberg-schindelbeck.jpg',
     albums: [
       {
         id: 1501,
