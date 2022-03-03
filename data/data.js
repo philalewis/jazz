@@ -722,7 +722,7 @@ module.exports = [
         musicians: [
           {name: 'Herbie Hancock', instrument: 'piano'},
           {name: 'Freddie Hubbard', instrument: 'cornet'},
-          {name: 'Ron Carter', instruments: 'bass'},
+          {name: 'Ron Carter', instrument: 'bass'},
           {name: 'Tony Williams', instrument: 'drums'}
         ]
       },
@@ -748,7 +748,7 @@ module.exports = [
         cover: 'https://upload.wikimedia.org/wikipedia/en/3/3c/Herbie_Hancock_Inventions_and_Dimensions_Cover.jpg',
         musicians: [
           {name: 'Herbie Hancock', instrument: 'piano'},
-          {name: 'Paul CHambers', instrument: 'bass'},
+          {name: 'Paul Chambers', instrument: 'bass'},
           {name: 'Willie Bobo', instrument: 'drums, timbales'},
           {name: 'Osvaldo "Chihuahua" Martinez', instrument: 'percussion'}
         ]

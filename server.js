@@ -36,6 +36,21 @@ app.get('/api/v1/album/:id', (request, response) => {
   !artistAlbum ? response.sendStatus(404) : response.status(200).json(artistAlbum)
 })
 
+app.get('/api/v1/appearances/:name', (request, response) => {
+  const { name } = request.params
+  let appearances = []
+  app.locals.jazzData.forEach(artist => {
+    artist.albums.forEach(album => {
+      let included = false;
+      album.musicians.forEach(musician => {
+        musician.name === name ? included = true : null
+      })
+      included ? appearances.push(album) : null
+    })
+  })
+  !appearances.length ? response.sendStatus(404) : response.status(200).json(appearances)
+})
+
 // POSTS
 app.post('/api/v1/musicians', (request, response) => {
   const id = Date.now()
