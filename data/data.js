@@ -5,6 +5,7 @@ module.exports = [
     instrument: 'Trumpet',
     albums: [
       {
+        id: 101,
         title: 'Birth of the Cool',
         releaseYear: 1957,
         musicians: [
@@ -20,6 +21,7 @@ module.exports = [
         ]
       },
       {
+        id: 102,
         title: 'Miles Ahead',
         releaseYear: 1957,
         musicians: [
@@ -47,6 +49,7 @@ module.exports = [
         ]
       },
       {
+        id: 103,
         title: 'Kind of Blue',
         releaseYear: 1959,
         musicians: [
@@ -60,6 +63,7 @@ module.exports = [
         ]
       },
       {
+        id: 104,
         title: 'Sketches of Spain',
         releaseYear: 1960,
         musicians: [
@@ -92,6 +96,7 @@ module.exports = [
         ]
       },
       {
+        id: 105,
         title: 'E.S.P.',
         releaseYear: 1965,
         musicians: [
@@ -103,6 +108,7 @@ module.exports = [
         ]
       },
       {
+        id: 106,
         title: 'Miles Smiles',
         releaseYear: 1967,
         musicians: [
@@ -114,6 +120,7 @@ module.exports = [
         ]
       },
       {
+        id: 107,
         title: 'Miles in the Sky',
         releaseYear: 1968,
         musicians: [
@@ -126,6 +133,7 @@ module.exports = [
         ]
       },
       {
+        id: 108,
         title: 'In a Silent Way',
         releaseYear: 1969,
         musicians: [
@@ -140,6 +148,7 @@ module.exports = [
         ]
       },
       {
+        id: 109,
         title: 'Bitches Brew',
         releaseYear: 1970,
         musicians: [
@@ -168,6 +177,7 @@ module.exports = [
     instrument: 'Saxophone',
     albums: [
       {
+        id: 201,
         title: 'Blue Train',
         releaseYear: 1958,
         musicians: [
@@ -180,6 +190,7 @@ module.exports = [
         ]
       },
       {
+        id: 202,
         title: 'Soultrane',
         releaseYear: 1958,
         musicians: [
@@ -190,6 +201,7 @@ module.exports = [
         ]
       },
       {
+        id: 203,
         title: 'Giant Steps',
         releaseYear: 1960,
         musicians: [
@@ -204,6 +216,7 @@ module.exports = [
         ]
       },
       {
+        id: 204,
         title: 'Impressions',
         releaseYear: 1963,
         musicians: [
@@ -217,6 +230,7 @@ module.exports = [
         ]
       },
       {
+        id: 205,
         title: 'A Love Supreme',
         releaseYear: 1965,
         musicians: [
@@ -227,6 +241,7 @@ module.exports = [
         ]
       },
       {
+        id: 206,
         title: 'Expression',
         releaseYear: 1967,
         musicians: [
@@ -245,6 +260,7 @@ module.exports = [
     instrument: 'Piano',
     albums: [
       {
+        id: 301,
         title: 'Genius of Modern Music: Vol 1',
         releaseYear: 1947,
         musicians: [
@@ -260,6 +276,7 @@ module.exports = [
         ]
       },
       {
+        id: 302,
         title: 'Thelonious Monk Trio',
         releaseYear: 1954,
         musicians: [
@@ -271,6 +288,7 @@ module.exports = [
         ]
       },
       {
+        id: 303,
         title: 'Monk\'s Music',
         releaseYear: 1957,
         musicians: [
@@ -284,6 +302,7 @@ module.exports = [
         ]
       },
       {
+        id: 304,
         title: 'Solo Monk',
         releaseYear: 1965,
         musicians: [
@@ -291,6 +310,7 @@ module.exports = [
         ]
       },
       {
+        id: 305,
         title: 'Underground',
         releaseYear: 1968,
         musicians: [
@@ -309,6 +329,7 @@ module.exports = [
     instrument: 'Double Bass',
     albums: [
       {
+        id: 401,
         title: 'Mingus at the Bohemia',
         releaseYear: 1955,
         musicians: [
@@ -321,6 +342,7 @@ module.exports = [
         ]
       },
       {
+        id: 402,
         title: 'Mingus Ah-Um',
         releaseYear: 1959,
         musicians: [
@@ -335,6 +357,7 @@ module.exports = [
         ]
       },
       {
+        id: 403,
         title: 'Mingus Mingus Mingus Mingus Mingus',
         releaseYear: 1964,
         musicians: [
@@ -364,6 +387,7 @@ module.exports = [
     instrument: 'Piano',
     albums: [
       {
+        id: 501,
         title: 'Ellington at Newport',
         releaseYear: 1956,
         musicians: [
@@ -388,6 +412,7 @@ module.exports = [
         ]
       },
       {
+        id: 502,
         title: 'Ellington Uptown',
         releaseYear: 1952,
         musicians: [
@@ -426,6 +451,7 @@ module.exports = [
         ]
       },
       {
+        id: 503,
         title: 'Masterpieces by Ellington',
         releaseYear: 1951,
         musicians: [
@@ -454,6 +480,7 @@ module.exports = [
         ]
       },
       {
+        id: 504,
         title: 'Duke Ellington & John Coltrane',
         releaseYear: 1963,
         musicians: [
@@ -473,6 +500,7 @@ module.exports = [
     instrument: 'Piano',
     albums: [
       {
+        id: 601,
         title: 'Jazz at Oberlin',
         releaseYear: 1953,
         musicians: [
@@ -483,6 +511,7 @@ module.exports = [
         ]
       },
       {
+        id: 602,
         title: 'Time Out',
         releaseYear: 1959,
         musicians: [
@@ -493,6 +522,7 @@ module.exports = [
         ]
       },
       {
+        id: 603,
         title: 'Brubeck & Rushing',
         releaseYear: 1960,
         musicians: [
@@ -504,6 +534,7 @@ module.exports = [
         ]
       },
       {
+        id: 604,
         title: 'The Dave Brubeck Quartet at Carnegie Hall',
         releaseYear: 1963,
         musicians: [
@@ -521,6 +552,7 @@ module.exports = [
     instrument: 'Piano',
     albums: [
       {
+        id: 701,
         title: 'Trio 64',
         releaseYear: 1964,
         musicians: [
@@ -530,6 +562,7 @@ module.exports = [
         ]
       }, 
       {
+        id: 702,
         title: 'Walz for Debby',
         releaseYear: 1962,
         musicians: [
@@ -539,6 +572,7 @@ module.exports = [
         ]
       },
       {
+        id: 703,
         title: 'Sunday at the Village Vanguard',
         releaseYear: 1961,
         musicians: [
@@ -548,6 +582,7 @@ module.exports = [
         ]
       },
       {
+        id: 704,
         title: 'Everybody Digs Bill Evans',
         releaseYear: 1959,
         musicians: [
@@ -557,6 +592,7 @@ module.exports = [
         ]
       },
       {
+        id: 705,
         title: 'Portrait in Jazz',
         releaseYear: 1960,
         musicians: [
@@ -566,6 +602,7 @@ module.exports = [
         ]
       },
       {
+        id: 706,
         title: 'Undercurrent',
         releaseYear: 1962,
         musicians: [
@@ -581,6 +618,7 @@ module.exports = [
     instrument: 'Piano',
     albums: [
       {
+        id: 801,
         title: 'Head Hunters',
         releaseYear: 1973,
         musicians: [
@@ -592,6 +630,7 @@ module.exports = [
         ]
       },
       {
+        id: 802,
         title: 'Empyrean Isles', 
         releaseYear: 1964,
         musicians: [
@@ -602,6 +641,7 @@ module.exports = [
         ]
       },
       {
+        id: 803,
         title: 'Maiden Voyage',
         releaseYear: 1965,
         musicians: [
@@ -613,6 +653,7 @@ module.exports = [
         ]
       },
       {
+        id: 804,
         title: 'Inventions & Dimensions',
         releaseYear: 1963,
         musicians: [
@@ -623,6 +664,7 @@ module.exports = [
         ]
       },
       {
+        id: 805,
         title: 'Mwandishi',
         releaseYear: 1971,
         musicians: [
@@ -641,6 +683,7 @@ module.exports = [
     instrument: 'Drums',
     albums: [
       {
+        id: 901,
         title: 'Free for All',
         releaseYear: 1965,
         musicians: [
@@ -653,6 +696,7 @@ module.exports = [
         ]
       },
       {
+        id: 902,
         title: 'Caravan',
         releaseYear: 1963,
         musicians: [
@@ -665,6 +709,7 @@ module.exports = [
         ]
       },
       {
+        id: 903,
         title: 'Moanin\'',
         releaseYear: 1959,
         musicians: [
@@ -676,6 +721,7 @@ module.exports = [
         ]
       },
       {
+        id: 904,
         title: 'A Night in Tunisia',
         releaseYear: 1961,
         musicians: [
@@ -694,6 +740,7 @@ module.exports = [
     instrument: 'Trumpet',
     albums: [
       {
+        id: 1001,
         title: 'Chet is Back!',
         releaseYear: 1962,
         musicians: [
@@ -707,6 +754,7 @@ module.exports = [
         ]
       },
       {
+        id: 1002,
         title: 'Stan Meets Chet',
         releaseYear: 1958,
         musicians: [
@@ -718,6 +766,7 @@ module.exports = [
         ]
       },
       {
+        id: 1003,
         title: 'Chet Baker In New York',
         releaseYear: 1959,
         musicians: [
@@ -736,6 +785,7 @@ module.exports = [
     instrument: 'guitar',
     albums: [
       {
+        id: 1101,
         title: 'The Wes Montgomery Trio',
         releaseYear: 1959,
         musicians: [
@@ -745,6 +795,7 @@ module.exports = [
         ]
       },
       {
+        id: 1102,
         title: 'The Incredible Jazz Guitar of Wes Montgomerty',
         releaseYear: 1960,
         musicians: [
@@ -755,6 +806,7 @@ module.exports = [
         ]
       },
       {
+        id: 1103,
         title: 'Bags Meets Wes!',
         releaseYear:  1962,
         musicians: [
@@ -766,6 +818,7 @@ module.exports = [
         ]
       },
       {
+        id: 1104,
         title: 'Movin\' Wes',
         releaseYear: 1964,
         musicians: [
@@ -787,6 +840,7 @@ module.exports = [
         ]
       },
       {
+        id: 1105,
         title: 'Smokin\' at the Half Note',
         releaseYear: 1965,
         musicians: [
@@ -797,6 +851,7 @@ module.exports = [
         ]
       },
       {
+        id: 1106,
         title: 'Jimmy & Wes: The Dynamic Duo',
         releaseYear: 1966,
         musicians: [
@@ -830,6 +885,7 @@ module.exports = [
     instrument: 'Saxophone',
     albums: [
       {
+        id: 1201,
         title: 'Jazz at Massey Hall',
         releaseYear: 1953,
         musicians: [
@@ -841,6 +897,7 @@ module.exports = [
         ]
       },
       {
+        id: 1202,
         title: 'The Charlie Parker Story',
         releaseYear: 1956,
         musicians: [
@@ -853,6 +910,7 @@ module.exports = [
         ]
       },
       {
+        id: 1203,
         title: 'Bird and Diz',
         releaseYear: 1952,
         musicians: [
@@ -870,6 +928,7 @@ module.exports = [
         ]
       },
       {
+        id: 1204,
         title: 'Swedish Schnapps',
         releaseYear: 1958,
         musicians: [
@@ -892,6 +951,7 @@ module.exports = [
     instrument: 'Piano',
     albums: [
       {
+        id: 1301,
         title: 'April in Paris',
         releaseYear: 1957,
         musicians: [
@@ -916,6 +976,7 @@ module.exports = [
         ]
       },
       {
+        id: 1302,
         title: 'The Atomic Mr. Basie',
         releaseYear: 1958,
         musicians: [
@@ -939,6 +1000,7 @@ module.exports = [
         ]
       },
       {
+        id: 1303,
         title: 'Count Basie at Newport',
         releaseYear: 1957,
         musicians: [
@@ -974,6 +1036,7 @@ module.exports = [
     instrument: 'Piano',
     albums: [
       {
+        id: 1401,
         title: 'Sahara',
         releaseYear: 1972,
         musicians: [
@@ -984,6 +1047,7 @@ module.exports = [
         ]
       },
       {
+        id: 1402,
         title: 'Enlightenment',
         releaseYear: 1973,
         musicians: [
@@ -1001,6 +1065,7 @@ module.exports = [
     instrument: 'Saxophone',
     albums: [
       {
+        id: 1501,
         title: 'The Shape of Jazz to Come',
         releaseYear: 1959,
         musicians: [
@@ -1011,6 +1076,7 @@ module.exports = [
         ]
       },
       {
+        id: 1502,
         title: 'Free Jazz: A Collective Improvisation',
         releaseYear: 1961,
         musicians: [
@@ -1025,6 +1091,7 @@ module.exports = [
         ]
       },
       {
+        id: 1503,
         title: 'At the "Golden Cirle" Stockholm',
         releaseYear: 1966,
         musicians: [

@@ -3,13 +3,19 @@ const app = express();
 app.use(express.json())
 const jazzData = require('./data/data.js')
 app.locals = { jazzData }
+const cors = require('cors');
+
+app.use(cors());
 
 app.set('port', process.env.PORT || 3000);
 app.locals.title = 'Jazz Musicians';
 
 app.get('/api/v1/musicians', (request, response) => {
   const jazzData = app.locals.jazzData
-  response.json({ jazzData })
+  const names = app.locals.jazzData.map(musician => {
+    return {name: musician.name, id: musician.id}
+  })
+  response.json({ names })
 });
 
 app.get('/api/v1/musicians/:id', (request, response) => {
