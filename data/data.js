@@ -26,6 +26,7 @@ module.exports = [
         id: 102,
         title: 'Miles Ahead',
         releaseYear: 1957,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/2/29/MilesAhead_original.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet'},
           {name: 'Bernie Glow', instrument: 'trumpet'},
@@ -54,6 +55,7 @@ module.exports = [
         id: 103,
         title: 'Kind of Blue',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/9/9c/MilesDavisKindofBlue.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet'},
           {name: 'Julian "Cannonball" Adderley', instrument: 'alto saxophone'}, 
@@ -68,6 +70,7 @@ module.exports = [
         id: 104,
         title: 'Sketches of Spain',
         releaseYear: 1960,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/4/4e/Miles_Davis_-_Sketches_of_Spain.png',
         musicians: [
           {name: 'Danny Bank', instrument: 'bass clarinet'},
           {name: 'Bill Barber', instrument: 'tuba'},
@@ -101,6 +104,7 @@ module.exports = [
         id: 105,
         title: 'E.S.P.',
         releaseYear: 1965,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/aa/E.S.P._cover.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet'},
           {name: 'Wayne Shorter', instrument: 'tenor saxophone'},
@@ -113,6 +117,7 @@ module.exports = [
         id: 106,
         title: 'Miles Smiles',
         releaseYear: 1967,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/d/d5/Miles_Davis_-_Miles_Smiles.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet'},
           {name: 'Wayne Shorter', instrument: 'tenor saxophone'},
@@ -125,6 +130,7 @@ module.exports = [
         id: 107,
         title: 'Miles in the Sky',
         releaseYear: 1968,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/a8/MilesDavis_MilesInTheSky.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet, cornet'},
           {name: 'Wayne Shorter', instrument: 'tenor saxophone'},
@@ -138,6 +144,7 @@ module.exports = [
         id: 108,
         title: 'In a Silent Way',
         releaseYear: 1969,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/4/49/Miles-davis-in-a-silent-way.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet'},
           {name: 'Wayne Shorter', instrument: 'soprano saxophone'},
@@ -153,6 +160,7 @@ module.exports = [
         id: 109,
         title: 'Bitches Brew',
         releaseYear: 1970,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/7/72/Bitches_brew.jpg',
         musicians: [
           {name: 'Miles Davis', instrument: 'trumpet'},
           {name: 'Wayne Shorter', instrument: 'soprano saxophone'},
@@ -183,6 +191,7 @@ module.exports = [
         id: 201,
         title: 'Blue Train',
         releaseYear: 1958,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/6/68/John_Coltrane_-_Blue_Train.jpg',
         musicians: [
           {name: 'John Coltrane', instrument: 'tenor saxophone'},
           {name: 'Lee Morgan', instrument: 'trumpet'},
@@ -196,6 +205,7 @@ module.exports = [
         id: 202,
         title: 'Soultrane',
         releaseYear: 1958,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/1/1d/John_Coltrane_-_Soultrane.jpg',
         musicians: [
           {name: 'John Coltrane', instrument: 'tenor saxophone'},
           {name: 'Red Garland', instrument: 'paino'},
@@ -207,6 +217,7 @@ module.exports = [
         id: 203,
         title: 'Giant Steps',
         releaseYear: 1960,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/2/2a/Coltrane_Giant_Steps.jpg',
         musicians: [
           {name: 'John Coltrane', instrument: 'tenor saxophone'},
           {name: 'Tommy Flanagan', instrument: 'piano'},
@@ -222,6 +233,7 @@ module.exports = [
         id: 204,
         title: 'Impressions',
         releaseYear: 1963,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/5/5c/Impressions_cover.jpg',
         musicians: [
           {name: 'John Coltrane', instrument: 'soprano and tenor saxophone'},
           {name: 'Eric Dolphy', instrument: 'bass clarinet'},
@@ -236,6 +248,7 @@ module.exports = [
         id: 205,
         title: 'A Love Supreme',
         releaseYear: 1965,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/9/9a/John_Coltrane_-_A_Love_Supreme.jpg',
         musicians: [
           {name: 'John Coltrane', instrument: 'soprano and tenor saxophone'},
           {name: 'Jimmy Garrison', instrument: 'double bass'},
@@ -247,6 +260,7 @@ module.exports = [
         id: 206,
         title: 'Expression',
         releaseYear: 1967,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/2/25/ColtraneExpression.jpg',
         musicians: [
           {name: 'John Coltrane', instrument: 'tenor saxophone, flute'},
           {name: 'Pharoah Sanders', instrument: 'flute, piccolo, tambourine'},
@@ -267,6 +281,7 @@ module.exports = [
         id: 301,
         title: 'Genius of Modern Music: Vol 1',
         releaseYear: 1947,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/1/1c/LP_5002_Monk.jpg',
         musicians: [
           {name: 'Thelonious Monk', instrument: 'piano'},
           {name: 'Art Blakey', instrument: 'drums'},
@@ -283,6 +298,7 @@ module.exports = [
         id: 302,
         title: 'Thelonious Monk Trio',
         releaseYear: 1954,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/5/5d/Thelonious_Monk_Trio.jpg',
         musicians: [
           {name: 'Thelonious Monk', instrument: 'piano'},
           {name: 'Gary Mapp', instrument: 'bass'},
@@ -295,6 +311,7 @@ module.exports = [
         id: 303,
         title: 'Monk\'s Music',
         releaseYear: 1957,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/3/3f/Monkmusic.jpg',
         musicians: [
           {name: 'Thelonious Monk', instrument: 'piano'},
           {name: 'Ray Copeland', instrument: 'trumpet'},
@@ -309,6 +326,7 @@ module.exports = [
         id: 304,
         title: 'Solo Monk',
         releaseYear: 1965,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/2/21/Solo_Monk.jpg',
         musicians: [
           {name: 'Thelonious Monk', instrument: 'piano'}
         ]
@@ -317,6 +335,7 @@ module.exports = [
         id: 305,
         title: 'Underground',
         releaseYear: 1968,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/c/c1/Thelonious_Monk-Underground_%28album_cover%29.jpg',
         musicians: [
           {name: 'Thelonious Monk', instrument: 'piano'},
           {name: 'Charlie Rouse', instrument: 'tenor saxophone'},
@@ -337,6 +356,7 @@ module.exports = [
         id: 401,
         title: 'Mingus at the Bohemia',
         releaseYear: 1955,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/4/43/Mingus_at_the_Bohemia.jpg',
         musicians: [
           {name: 'George Barrow', instrument: 'tenor saxophone'},
           {name: 'Eddie Bert', instrument: 'trombone'},
@@ -350,6 +370,7 @@ module.exports = [
         id: 402,
         title: 'Mingus Ah-Um',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/6/65/Mingus_Ah_Um_-_Charles_Mingus.jpg',
         musicians: [
           {name: 'John Handy', instrument: 'alto saxophone, clarinet, tenor saxophone'},
           {name: 'Brooker Ervin', instrument: 'tenor saxophone'},
@@ -365,6 +386,7 @@ module.exports = [
         id: 403,
         title: 'Mingus Mingus Mingus Mingus Mingus',
         releaseYear: 1964,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/1/12/Charles_Mingus_Mingus_Mingus_Mingus_Mingus_Mingus.jpg',
         musicians: [
           {name: 'Eddie Preston', instrument: 'trumpet'},
           {name: 'Richard Williams', instrument: 'trumpet'},
@@ -396,6 +418,7 @@ module.exports = [
         id: 501,
         title: 'Ellington at Newport',
         releaseYear: 1956,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/4/44/EllingtonAtNewport.jpg',
         musicians: [
           {name: 'Duke Ellington', instrument: 'piano'},
           {name: 'Cat Anderson', instrument: 'trumpet'},
@@ -421,6 +444,7 @@ module.exports = [
         id: 502,
         title: 'Ellington Uptown',
         releaseYear: 1952,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/a9/Ellington_Uptown.jpg',
         musicians: [
           {name: 'Duke Ellington', instrument: 'piano'},
           {name: 'Billy Strayhorn', instrument: 'piano'},
@@ -460,6 +484,7 @@ module.exports = [
         id: 503,
         title: 'Masterpieces by Ellington',
         releaseYear: 1951,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/b/b1/Masterpieces_by_Ellington.jpg',
         musicians: [
           {name: 'Duke Ellington', instrument: 'piano'},
           {name: 'Billy Strayhorn', instrument: 'piano'},
@@ -489,6 +514,7 @@ module.exports = [
         id: 504,
         title: 'Duke Ellington & John Coltrane',
         releaseYear: 1963,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/2/2a/Duke_Ellington_%26_John_Coltrane.jpg',
         musicians: [
           {name: 'Duke Ellington', instrument: 'piano'},
           {name: 'John Coltrane', instrument: 'tenor saxophone, soprano saxophone'},
@@ -510,6 +536,7 @@ module.exports = [
         id: 601,
         title: 'Jazz at Oberlin',
         releaseYear: 1953,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/a5/DBrubeckQ_Oberlin.jpg',
         musicians: [
           {name: 'Dave Brubeck', instrument: 'piano'},
           {name: 'Paul Desmond', instrument: 'alto saxophone'},
@@ -521,6 +548,7 @@ module.exports = [
         id: 602,
         title: 'Time Out',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/e/e5/Time_out_album_cover.jpg',
         musicians: [
           {name: 'Dave Brubeck', instrument: 'piano'},
           {name: 'Paul Desmond', instrument: 'alto saxophone'},
@@ -532,6 +560,7 @@ module.exports = [
         id: 603,
         title: 'Brubeck & Rushing',
         releaseYear: 1960,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/9/96/Brubeck_Rushing.jpeg',
         musicians: [
           {name: 'Jimmy Rushing', instrument: 'vocals'},
           {name: 'Dave Brubeck', instrument: 'piano'},
@@ -544,6 +573,7 @@ module.exports = [
         id: 604,
         title: 'The Dave Brubeck Quartet at Carnegie Hall',
         releaseYear: 1963,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/a6/DaveBrubeckQuartetAtCarnegieHall.jpg',
         musicians: [
           {name: 'Dave Brubeck', instrument: 'piano'},
           {name: 'Paul Desmond', instrument: 'alto saxophone'},
@@ -563,6 +593,7 @@ module.exports = [
         id: 701,
         title: 'Trio 64',
         releaseYear: 1964,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/e/ec/Trio64.jpg',
         musicians: [
           {name: 'Bill Evans', instrument: 'piano'},
           {name: 'Gary Peacock', instrument: 'double bass'},
@@ -571,8 +602,9 @@ module.exports = [
       }, 
       {
         id: 702,
-        title: 'Walz for Debby',
+        title: 'Waltz for Debby',
         releaseYear: 1962,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/c/c9/Bill_Evans_Trio_-_Waltz_for_Debby.png',
         musicians: [
           {name: 'Bill Evans', instrument: 'piano'},
           {name: 'Scott LaFaro', instrument: 'bass'},
@@ -583,6 +615,7 @@ module.exports = [
         id: 703,
         title: 'Sunday at the Village Vanguard',
         releaseYear: 1961,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/a1/Sunday_at_the_Village_Vanguard.jpg',
         musicians: [
           {name: 'Bill Evans', instrument: 'piano'},
           {name: 'Scott LaFaro', instrument: 'bass'},
@@ -593,6 +626,7 @@ module.exports = [
         id: 704,
         title: 'Everybody Digs Bill Evans',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/e/e3/Everybody_Digs_Bill_Evans.jpg',
         musicians: [
           {name: 'Bill Evans', instrument: 'piano'},
           {name: 'Sam Jones', instrument: 'bass'},
@@ -603,6 +637,7 @@ module.exports = [
         id: 705,
         title: 'Portrait in Jazz',
         releaseYear: 1960,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/8/82/Bill_Evans_Trio_Portraits_in_Jazz.jpg',
         musicians: [
           {name: 'Bill Evans', instrument: 'piano'},
           {name: 'Scott LaFaro', instrument: 'bass'},
@@ -613,6 +648,7 @@ module.exports = [
         id: 706,
         title: 'Undercurrent',
         releaseYear: 1962,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/9/9d/Undercurrent.jpeg',
         musicians: [
           {name: 'Bill Evans', instrument: 'piano'},
           {name: 'Jim Hall', instrument: 'guitar'}
@@ -630,6 +666,7 @@ module.exports = [
         id: 801,
         title: 'Head Hunters',
         releaseYear: 1973,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/5/54/Herbie-Hancock-Head-Hunters.png',
         musicians: [
           {name: 'Herbie Hancock', instrument: 'clavinet, keys, synthesizer'},
           {name: 'Bennie Maupin', instrument: 'tenor saxophone, soprano saxophone, saxello, bass clarinet, alto flute'},
@@ -642,6 +679,7 @@ module.exports = [
         id: 802,
         title: 'Empyrean Isles', 
         releaseYear: 1964,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/c/c0/Empisle_hancock.jpg',
         musicians: [
           {name: 'Herbie Hancock', instrument: 'piano'},
           {name: 'Freddie Hubbard', instrument: 'cornet'},
@@ -653,6 +691,7 @@ module.exports = [
         id: 803,
         title: 'Maiden Voyage',
         releaseYear: 1965,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/7/7a/Maiden_Voyage_%28Hancock%29.jpg',
         musicians: [
           {name: 'Herbie Hancock', instrument: 'piano'},
           {name: 'Freddie Hubbard', instrument: 'trumpet'},
@@ -665,6 +704,7 @@ module.exports = [
         id: 804,
         title: 'Inventions & Dimensions',
         releaseYear: 1963,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/3/3c/Herbie_Hancock_Inventions_and_Dimensions_Cover.jpg',
         musicians: [
           {name: 'Herbie Hancock', instrument: 'piano'},
           {name: 'Paul CHambers', instrument: 'bass'},
@@ -676,6 +716,7 @@ module.exports = [
         id: 805,
         title: 'Mwandishi',
         releaseYear: 1971,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/4/46/Mwandishialbumcover.png',
         musicians: [
           {name: 'Herbie Hancock', instrument: 'piano'},
           {name: 'Buster Williams', instrument: 'bass'},
@@ -696,6 +737,7 @@ module.exports = [
         id: 901,
         title: 'Free for All',
         releaseYear: 1965,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/5/57/Free_for_all.jpeg',
         musicians: [
           {name: 'Art Blakey', instrument: 'drums'},
           {name: 'Freddie Hubbard', instrument: 'trumpet'},
@@ -709,6 +751,7 @@ module.exports = [
         id: 902,
         title: 'Caravan',
         releaseYear: 1963,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/7/7f/Caravan_art_blakey.jpg',
         musicians: [
           {name: 'Art Blakey', instrument: 'drums'},
           {name: 'Freddie Hubbard', instrument: 'trumpet'},
@@ -722,6 +765,7 @@ module.exports = [
         id: 903,
         title: 'Moanin\'',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/c/cb/Moanin%27_%28Art_Blakey%29.jpg',
         musicians: [
           {name: 'Art Blakey', instrument: 'drums'},
           {name: 'Lee Morgan', instrument: 'trumpet'},
@@ -734,6 +778,7 @@ module.exports = [
         id: 904,
         title: 'A Night in Tunisia',
         releaseYear: 1961,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/b/bc/A_Night_in_Tunisia_%281960_album%29.jpg',
         musicians: [
           {name: 'Art Blakey', instrument: 'drums'},
           {name: 'Lee Morgan', instrument: 'trumpet'},
@@ -754,6 +799,7 @@ module.exports = [
         id: 1001,
         title: 'Chet is Back!',
         releaseYear: 1962,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/f/f4/Chet_Is_Back%21.jpeg',
         musicians: [
           {name: 'Chet Baker', instrument: 'trumpet'},
           {name: 'Bobby Jaspar', instrument: 'tenor saxophone, flute'},
@@ -768,6 +814,7 @@ module.exports = [
         id: 1002,
         title: 'Stan Meets Chet',
         releaseYear: 1958,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/4/45/Stan_Meets_Chet.jpg',
         musicians: [
           {name: 'Chet Baker', instrument: 'trumpet'},
           {name: 'Stan Getz', instrument: 'tenor saxophone'},
@@ -780,6 +827,7 @@ module.exports = [
         id: 1003,
         title: 'Chet Baker In New York',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/b/b6/Chet_Baker_in_New_York.jpg',
         musicians: [
           {name: 'Chet Baker', instrument: 'trumpet'},
           {name: 'Johnny Griffin', instrument: 'tenor saxophone'},
@@ -800,6 +848,7 @@ module.exports = [
         id: 1101,
         title: 'The Wes Montgomery Trio',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/7/70/The_wes_montgomery_trio.jpeg',
         musicians: [
           {name: 'Wes Montgomery', instrument: 'guitar'},
           {name: 'Melvin Rhyne', instrument: 'organ'},
@@ -810,6 +859,7 @@ module.exports = [
         id: 1102,
         title: 'The Incredible Jazz Guitar of Wes Montgomerty',
         releaseYear: 1960,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/d/d4/Incredible_Jazz_Guitar.jpg',
         musicians: [
           {name: 'Wes Montgomery', instrument: 'electric guitar'},
           {name: 'Tommy Flanagan', instrument: 'piano'},
@@ -821,6 +871,7 @@ module.exports = [
         id: 1103,
         title: 'Bags Meets Wes!',
         releaseYear:  1962,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/6/69/Bags_Meets_Wes.jpg',
         musicians: [
           {name: 'Milt Jackson', instrument: 'vibraphonne'},
           {name: 'Wes Montgomery', instrument: 'guitar'},
@@ -833,6 +884,7 @@ module.exports = [
         id: 1104,
         title: 'Movin\' Wes',
         releaseYear: 1964,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/6/62/Wesmovin.jpg',
         musicians: [
           {name: 'Wes Montgomery', instrument: 'guitar'},
           {name: 'Ernie Royal', instrument: 'trumpet'},
@@ -855,6 +907,7 @@ module.exports = [
         id: 1105,
         title: 'Smokin\' at the Half Note',
         releaseYear: 1965,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/1/13/Smokin_half_note.jpg',
         musicians: [
           {name: 'Wes Montgomery', instrument: 'guitar'},
           {name: 'Wynton Kelly', instrument: 'piano'},
@@ -866,6 +919,7 @@ module.exports = [
         id: 1106,
         title: 'Jimmy & Wes: The Dynamic Duo',
         releaseYear: 1966,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/4/4e/Jimmy_and_Wes_The_Dynamic_Duo.jpg',
         musicians: [
           {name: 'Wes Montgomery', instrument: 'guitar'},
           {name: 'Jimmy Smith', instrument: 'Hammond organ'},
@@ -901,6 +955,7 @@ module.exports = [
         id: 1201,
         title: 'Jazz at Massey Hall',
         releaseYear: 1953,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/6/6e/Jazz_at_Massey_Hall.jpg',
         musicians: [
           {name: 'Dizzy Gillespie', instrument: 'trumpet'},
           {name: 'Charles Mingus', instrument: 'bass'},
@@ -913,6 +968,7 @@ module.exports = [
         id: 1202,
         title: 'The Charlie Parker Story',
         releaseYear: 1956,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/a/ae/Charlie_Parker_Story.jpg',
         musicians: [
           {name: 'Charlie Parker', instrument: 'alto saxophone'},
           {name: 'Miles Davis', instrument: 'trumpet'},
@@ -926,6 +982,7 @@ module.exports = [
         id: 1203,
         title: 'Bird and Diz',
         releaseYear: 1952,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/f/f2/Bird%26Diz.png',
         musicians: [
           {name: 'Charlie Parker', instrument: 'saxophone'},
           {name: 'Dizzy Gillespie', instrument: 'trumpet'},
@@ -944,6 +1001,7 @@ module.exports = [
         id: 1204,
         title: 'Swedish Schnapps',
         releaseYear: 1958,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/c/c1/SwedishSchnapps.jpg',
         musicians: [
           {name: 'Charlie Parker', instrument: 'saxophone'},
           {name: 'Red Rodney', instrument: 'trumpet'},
@@ -968,6 +1026,7 @@ module.exports = [
         id: 1301,
         title: 'April in Paris',
         releaseYear: 1957,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/0/0b/April_in_Paris_%28album%29.jpg',
         musicians: [
           {name: 'Count Basie', instrument: 'piano'},
           {name: 'Wendell Culley', instrument: 'trumpet'},
@@ -993,6 +1052,7 @@ module.exports = [
         id: 1302,
         title: 'The Atomic Mr. Basie',
         releaseYear: 1958,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/d/dd/The_Complete_Atomic_Basie.jpg',
         musicians: [
           {name: 'Wendall Culley', instrument: 'trumpet'},
           {name: 'Snookey Young', instrument: 'trumpet'},
@@ -1017,6 +1077,7 @@ module.exports = [
         id: 1303,
         title: 'Count Basie at Newport',
         releaseYear: 1957,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/3/3c/At_Newport_The_Count.jpg',
         musicians: [
           {name: 'Count Basie', instrument: 'piano'},
           {name: 'Wendell Culley', instrument: 'trumpet'},
@@ -1054,6 +1115,7 @@ module.exports = [
         id: 1401,
         title: 'Sahara',
         releaseYear: 1972,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/b/b2/Sahara_%28McCoy_Tyner_album%29.jpg',
         musicians: [
           {name: 'McCoy Tyner', instrument: 'piano, koto, percussion, flute'},
           {name: 'Sonny Fortune', instrument: 'alto saxophone, soprano saxophone, flute'},
@@ -1065,6 +1127,7 @@ module.exports = [
         id: 1402,
         title: 'Enlightenment',
         releaseYear: 1973,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/9/96/Enlightenment_%28McCoy_Tyner_album%29.jpg',
         musicians: [
           {name: 'McCoy Tyner', instrument: 'piano, percussion'},
           {name: 'Azar Lawrence', instrument: 'tenor saxophone, soprano saxophone'},
@@ -1084,6 +1147,7 @@ module.exports = [
         id: 1501,
         title: 'The Shape of Jazz to Come',
         releaseYear: 1959,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/c/c9/ShapeOfJazzToCome.jpg',
         musicians: [
           {name: 'Ornette Coleman', instrument: 'alto saxophone'},
           {name: 'Don Cherry', instrument: 'cornet'},
@@ -1095,6 +1159,7 @@ module.exports = [
         id: 1502,
         title: 'Free Jazz: A Collective Improvisation',
         releaseYear: 1961,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/6/6c/Free_Jazz_-_A_Collective_Improvisation.jpg',
         musicians: [
           {name: 'Ornette Coleman', instrument: 'alto saxophone'},
           {name: 'Don Cherry', instrument: 'pocket trumpet'},
@@ -1110,6 +1175,7 @@ module.exports = [
         id: 1503,
         title: 'At the "Golden Cirle" Stockholm',
         releaseYear: 1966,
+        cover: 'https://upload.wikimedia.org/wikipedia/en/1/13/OrnetteColemanGoldenCirclecover.jpg',
         musicians: [
           {name: 'Ornette Coleman', instrument: 'alto saxophone, violin,  trumpet'},
           {name: 'David Izenzon', instrument: 'double bass'},
