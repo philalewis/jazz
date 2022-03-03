@@ -7,6 +7,7 @@ module.exports = [
     albums: [
       {
         id: 101,
+        albumArtist: 'Miles Davis',
         title: 'Birth of the Cool',
         releaseYear: 1957,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/a8/Birth_of_the_Cool.jpg',
@@ -24,6 +25,7 @@ module.exports = [
       },
       {
         id: 102,
+        albumArtist: 'Miles Davis',
         title: 'Miles Ahead',
         releaseYear: 1957,
         cover: 'https://upload.wikimedia.org/wikipedia/en/2/29/MilesAhead_original.jpg',
@@ -53,6 +55,7 @@ module.exports = [
       },
       {
         id: 103,
+        albumArtist: 'Miles Davis',
         title: 'Kind of Blue',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/9/9c/MilesDavisKindofBlue.jpg',
@@ -68,6 +71,7 @@ module.exports = [
       },
       {
         id: 104,
+        albumArtist: 'Miles Davis',
         title: 'Sketches of Spain',
         releaseYear: 1960,
         cover: 'https://upload.wikimedia.org/wikipedia/en/4/4e/Miles_Davis_-_Sketches_of_Spain.png',
@@ -102,6 +106,7 @@ module.exports = [
       },
       {
         id: 105,
+        albumArtist: 'Miles Davis',
         title: 'E.S.P.',
         releaseYear: 1965,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/aa/E.S.P._cover.jpg',
@@ -115,6 +120,7 @@ module.exports = [
       },
       {
         id: 106,
+        albumArtist: 'Miles Davis',
         title: 'Miles Smiles',
         releaseYear: 1967,
         cover: 'https://upload.wikimedia.org/wikipedia/en/d/d5/Miles_Davis_-_Miles_Smiles.jpg',
@@ -128,6 +134,7 @@ module.exports = [
       },
       {
         id: 107,
+        albumArtist: 'Miles Davis',
         title: 'Miles in the Sky',
         releaseYear: 1968,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/a8/MilesDavis_MilesInTheSky.jpg',
@@ -142,6 +149,7 @@ module.exports = [
       },
       {
         id: 108,
+        albumArtist: 'Miles Davis',
         title: 'In a Silent Way',
         releaseYear: 1969,
         cover: 'https://upload.wikimedia.org/wikipedia/en/4/49/Miles-davis-in-a-silent-way.jpg',
@@ -158,6 +166,7 @@ module.exports = [
       },
       {
         id: 109,
+        albumArtist: 'Miles Davis',
         title: 'Bitches Brew',
         releaseYear: 1970,
         cover: 'https://upload.wikimedia.org/wikipedia/en/7/72/Bitches_brew.jpg',
@@ -189,6 +198,7 @@ module.exports = [
     albums: [
       {
         id: 201,
+        albumArtist: 'John Coltrane',
         title: 'Blue Train',
         releaseYear: 1958,
         cover: 'https://upload.wikimedia.org/wikipedia/en/6/68/John_Coltrane_-_Blue_Train.jpg',
@@ -203,6 +213,7 @@ module.exports = [
       },
       {
         id: 202,
+        albumArtist: 'John Coltrane',
         title: 'Soultrane',
         releaseYear: 1958,
         cover: 'https://upload.wikimedia.org/wikipedia/en/1/1d/John_Coltrane_-_Soultrane.jpg',
@@ -215,6 +226,7 @@ module.exports = [
       },
       {
         id: 203,
+        albumArtist: 'John Coltrane',
         title: 'Giant Steps',
         releaseYear: 1960,
         cover: 'https://upload.wikimedia.org/wikipedia/en/2/2a/Coltrane_Giant_Steps.jpg',
@@ -231,6 +243,7 @@ module.exports = [
       },
       {
         id: 204,
+        albumArtist: 'John Coltrane',
         title: 'Impressions',
         releaseYear: 1963,
         cover: 'https://upload.wikimedia.org/wikipedia/en/5/5c/Impressions_cover.jpg',
@@ -246,6 +259,7 @@ module.exports = [
       },
       {
         id: 205,
+        albumArtist: 'John Coltrane',
         title: 'A Love Supreme',
         releaseYear: 1965,
         cover: 'https://upload.wikimedia.org/wikipedia/en/9/9a/John_Coltrane_-_A_Love_Supreme.jpg',
@@ -258,6 +272,7 @@ module.exports = [
       },
       {
         id: 206,
+        albumArtist: 'John Coltrane',
         title: 'Expression',
         releaseYear: 1967,
         cover: 'https://upload.wikimedia.org/wikipedia/en/2/25/ColtraneExpression.jpg',
@@ -279,6 +294,7 @@ module.exports = [
     albums: [
       {
         id: 301,
+        albumArtist: 'Thelonious Monk',
         title: 'Genius of Modern Music: Vol 1',
         releaseYear: 1947,
         cover: 'https://upload.wikimedia.org/wikipedia/en/1/1c/LP_5002_Monk.jpg',
@@ -296,6 +312,7 @@ module.exports = [
       },
       {
         id: 302,
+        albumArtist: 'Thelonious Monk',
         title: 'Thelonious Monk Trio',
         releaseYear: 1954,
         cover: 'https://upload.wikimedia.org/wikipedia/en/5/5d/Thelonious_Monk_Trio.jpg',
@@ -309,6 +326,7 @@ module.exports = [
       },
       {
         id: 303,
+        albumArtist: 'Thelonious Monk',
         title: 'Monk\'s Music',
         releaseYear: 1957,
         cover: 'https://upload.wikimedia.org/wikipedia/en/3/3f/Monkmusic.jpg',
@@ -324,6 +342,7 @@ module.exports = [
       },
       {
         id: 304,
+        albumArtist: 'Thelonious Monk',
         title: 'Solo Monk',
         releaseYear: 1965,
         cover: 'https://upload.wikimedia.org/wikipedia/en/2/21/Solo_Monk.jpg',
@@ -333,6 +352,7 @@ module.exports = [
       },
       {
         id: 305,
+        albumArtist: 'Thelonious Monk',
         title: 'Underground',
         releaseYear: 1968,
         cover: 'https://upload.wikimedia.org/wikipedia/en/c/c1/Thelonious_Monk-Underground_%28album_cover%29.jpg',
@@ -354,6 +374,7 @@ module.exports = [
     albums: [
       {
         id: 401,
+        albumArtist: 'Charles Mingus',
         title: 'Mingus at the Bohemia',
         releaseYear: 1955,
         cover: 'https://upload.wikimedia.org/wikipedia/en/4/43/Mingus_at_the_Bohemia.jpg',
@@ -368,6 +389,7 @@ module.exports = [
       },
       {
         id: 402,
+        albumArtist: 'Charles Mingus',
         title: 'Mingus Ah-Um',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/6/65/Mingus_Ah_Um_-_Charles_Mingus.jpg',
@@ -384,6 +406,7 @@ module.exports = [
       },
       {
         id: 403,
+        albumArtist: 'Charles Mingus',
         title: 'Mingus Mingus Mingus Mingus Mingus',
         releaseYear: 1964,
         cover: 'https://upload.wikimedia.org/wikipedia/en/1/12/Charles_Mingus_Mingus_Mingus_Mingus_Mingus_Mingus.jpg',
@@ -416,6 +439,7 @@ module.exports = [
     albums: [
       {
         id: 501,
+        albumArtist: 'Duke Ellington',
         title: 'Ellington at Newport',
         releaseYear: 1956,
         cover: 'https://upload.wikimedia.org/wikipedia/en/4/44/EllingtonAtNewport.jpg',
@@ -442,6 +466,7 @@ module.exports = [
       },
       {
         id: 502,
+        albumArtist: 'Duke Ellington',
         title: 'Ellington Uptown',
         releaseYear: 1952,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/a9/Ellington_Uptown.jpg',
@@ -482,6 +507,7 @@ module.exports = [
       },
       {
         id: 503,
+        albumArtist: 'Duke Ellington',
         title: 'Masterpieces by Ellington',
         releaseYear: 1951,
         cover: 'https://upload.wikimedia.org/wikipedia/en/b/b1/Masterpieces_by_Ellington.jpg',
@@ -512,6 +538,7 @@ module.exports = [
       },
       {
         id: 504,
+        albumArtist: 'Duke Ellington and John Coltrane',
         title: 'Duke Ellington & John Coltrane',
         releaseYear: 1963,
         cover: 'https://upload.wikimedia.org/wikipedia/en/2/2a/Duke_Ellington_%26_John_Coltrane.jpg',
@@ -534,6 +561,7 @@ module.exports = [
     albums: [
       {
         id: 601,
+        albumArtist: 'Dave Brubeck Quartet',
         title: 'Jazz at Oberlin',
         releaseYear: 1953,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/a5/DBrubeckQ_Oberlin.jpg',
@@ -546,6 +574,7 @@ module.exports = [
       },
       {
         id: 602,
+        albumArtist: 'Dave Brubeck Quartet',
         title: 'Time Out',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/e/e5/Time_out_album_cover.jpg',
@@ -558,6 +587,7 @@ module.exports = [
       },
       {
         id: 603,
+        albumArtist: 'Dave Brubeck Quartet and Jimmy Rushing',
         title: 'Brubeck & Rushing',
         releaseYear: 1960,
         cover: 'https://upload.wikimedia.org/wikipedia/en/9/96/Brubeck_Rushing.jpeg',
@@ -571,6 +601,7 @@ module.exports = [
       },
       {
         id: 604,
+        albumArtist: 'Dave Brubeck Quartet',
         title: 'The Dave Brubeck Quartet at Carnegie Hall',
         releaseYear: 1963,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/a6/DaveBrubeckQuartetAtCarnegieHall.jpg',
@@ -591,6 +622,7 @@ module.exports = [
     albums: [
       {
         id: 701,
+        albumArtist: 'Bill Evans Trio',
         title: 'Trio 64',
         releaseYear: 1964,
         cover: 'https://upload.wikimedia.org/wikipedia/en/e/ec/Trio64.jpg',
@@ -602,6 +634,7 @@ module.exports = [
       }, 
       {
         id: 702,
+        albumArtist: 'Bill Evans Trio',
         title: 'Waltz for Debby',
         releaseYear: 1962,
         cover: 'https://upload.wikimedia.org/wikipedia/en/c/c9/Bill_Evans_Trio_-_Waltz_for_Debby.png',
@@ -613,6 +646,7 @@ module.exports = [
       },
       {
         id: 703,
+        albumArtist: 'Bill Evans Trio',
         title: 'Sunday at the Village Vanguard',
         releaseYear: 1961,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/a1/Sunday_at_the_Village_Vanguard.jpg',
@@ -624,6 +658,7 @@ module.exports = [
       },
       {
         id: 704,
+        albumArtist: 'Bill Evans',
         title: 'Everybody Digs Bill Evans',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/e/e3/Everybody_Digs_Bill_Evans.jpg',
@@ -635,6 +670,7 @@ module.exports = [
       },
       {
         id: 705,
+        albumArtist: 'Bill Evans',
         title: 'Portrait in Jazz',
         releaseYear: 1960,
         cover: 'https://upload.wikimedia.org/wikipedia/en/8/82/Bill_Evans_Trio_Portraits_in_Jazz.jpg',
@@ -646,6 +682,7 @@ module.exports = [
       },
       {
         id: 706,
+        albumArtist: 'Bill Evans and Jim Hall',
         title: 'Undercurrent',
         releaseYear: 1962,
         cover: 'https://upload.wikimedia.org/wikipedia/en/9/9d/Undercurrent.jpeg',
@@ -664,6 +701,7 @@ module.exports = [
     albums: [
       {
         id: 801,
+        albumArtist: 'Herbie Hancock',
         title: 'Head Hunters',
         releaseYear: 1973,
         cover: 'https://upload.wikimedia.org/wikipedia/en/5/54/Herbie-Hancock-Head-Hunters.png',
@@ -677,6 +715,7 @@ module.exports = [
       },
       {
         id: 802,
+        albumArtist: 'Herbie Hancock',
         title: 'Empyrean Isles', 
         releaseYear: 1964,
         cover: 'https://upload.wikimedia.org/wikipedia/en/c/c0/Empisle_hancock.jpg',
@@ -689,6 +728,7 @@ module.exports = [
       },
       {
         id: 803,
+        albumArtist: 'Herbie Hancock',
         title: 'Maiden Voyage',
         releaseYear: 1965,
         cover: 'https://upload.wikimedia.org/wikipedia/en/7/7a/Maiden_Voyage_%28Hancock%29.jpg',
@@ -702,6 +742,7 @@ module.exports = [
       },
       {
         id: 804,
+        albumArtist: 'Herbie Hancock',
         title: 'Inventions & Dimensions',
         releaseYear: 1963,
         cover: 'https://upload.wikimedia.org/wikipedia/en/3/3c/Herbie_Hancock_Inventions_and_Dimensions_Cover.jpg',
@@ -714,6 +755,7 @@ module.exports = [
       },
       {
         id: 805,
+        albumArtist: 'Herbie Hancock',
         title: 'Mwandishi',
         releaseYear: 1971,
         cover: 'https://upload.wikimedia.org/wikipedia/en/4/46/Mwandishialbumcover.png',
@@ -735,6 +777,7 @@ module.exports = [
     albums: [
       {
         id: 901,
+        albumArtist: 'Art Blakey & the Jazz Messengers',
         title: 'Free for All',
         releaseYear: 1965,
         cover: 'https://upload.wikimedia.org/wikipedia/en/5/57/Free_for_all.jpeg',
@@ -749,6 +792,7 @@ module.exports = [
       },
       {
         id: 902,
+        albumArtist: 'Art Blakey & the Jazz Messengers',
         title: 'Caravan',
         releaseYear: 1963,
         cover: 'https://upload.wikimedia.org/wikipedia/en/7/7f/Caravan_art_blakey.jpg',
@@ -763,6 +807,7 @@ module.exports = [
       },
       {
         id: 903,
+        albumArtist: 'Art Blakey & the Jazz Messengers',
         title: 'Moanin\'',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/c/cb/Moanin%27_%28Art_Blakey%29.jpg',
@@ -776,6 +821,7 @@ module.exports = [
       },
       {
         id: 904,
+        albumArtist: 'Art Blakey & the Jazz Messengers',
         title: 'A Night in Tunisia',
         releaseYear: 1961,
         cover: 'https://upload.wikimedia.org/wikipedia/en/b/bc/A_Night_in_Tunisia_%281960_album%29.jpg',
@@ -797,6 +843,7 @@ module.exports = [
     albums: [
       {
         id: 1001,
+        albumArtist: 'Chet Baker',
         title: 'Chet is Back!',
         releaseYear: 1962,
         cover: 'https://upload.wikimedia.org/wikipedia/en/f/f4/Chet_Is_Back%21.jpeg',
@@ -812,6 +859,7 @@ module.exports = [
       },
       {
         id: 1002,
+        albumArtist: 'Stan Getz & Chet Baker',
         title: 'Stan Meets Chet',
         releaseYear: 1958,
         cover: 'https://upload.wikimedia.org/wikipedia/en/4/45/Stan_Meets_Chet.jpg',
@@ -825,6 +873,7 @@ module.exports = [
       },
       {
         id: 1003,
+        albumArtist: 'Chet Baker',
         title: 'Chet Baker In New York',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/b/b6/Chet_Baker_in_New_York.jpg',
@@ -846,6 +895,7 @@ module.exports = [
     albums: [
       {
         id: 1101,
+        albumArtist: 'Wes Montgomery',
         title: 'The Wes Montgomery Trio',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/7/70/The_wes_montgomery_trio.jpeg',
@@ -857,6 +907,7 @@ module.exports = [
       },
       {
         id: 1102,
+        albumArtist: 'Wes Montgomery',
         title: 'The Incredible Jazz Guitar of Wes Montgomerty',
         releaseYear: 1960,
         cover: 'https://upload.wikimedia.org/wikipedia/en/d/d4/Incredible_Jazz_Guitar.jpg',
@@ -869,6 +920,7 @@ module.exports = [
       },
       {
         id: 1103,
+        albumArtist: 'Milt Jackson & Wes Montgomery',
         title: 'Bags Meets Wes!',
         releaseYear:  1962,
         cover: 'https://upload.wikimedia.org/wikipedia/en/6/69/Bags_Meets_Wes.jpg',
@@ -882,6 +934,7 @@ module.exports = [
       },
       {
         id: 1104,
+        albumArtist: 'Wes Montgomery',
         title: 'Movin\' Wes',
         releaseYear: 1964,
         cover: 'https://upload.wikimedia.org/wikipedia/en/6/62/Wesmovin.jpg',
@@ -905,6 +958,7 @@ module.exports = [
       },
       {
         id: 1105,
+        albumArtist: 'Wes Montgomery',
         title: 'Smokin\' at the Half Note',
         releaseYear: 1965,
         cover: 'https://upload.wikimedia.org/wikipedia/en/1/13/Smokin_half_note.jpg',
@@ -917,6 +971,7 @@ module.exports = [
       },
       {
         id: 1106,
+        albumArtist: 'Jimmy Smith & Wes Montgomery',
         title: 'Jimmy & Wes: The Dynamic Duo',
         releaseYear: 1966,
         cover: 'https://upload.wikimedia.org/wikipedia/en/4/4e/Jimmy_and_Wes_The_Dynamic_Duo.jpg',
@@ -953,6 +1008,7 @@ module.exports = [
     albums: [
       {
         id: 1201,
+        albumArtist: 'The Quintet',
         title: 'Jazz at Massey Hall',
         releaseYear: 1953,
         cover: 'https://upload.wikimedia.org/wikipedia/en/6/6e/Jazz_at_Massey_Hall.jpg',
@@ -966,6 +1022,7 @@ module.exports = [
       },
       {
         id: 1202,
+        albumArtist: 'Charlie Parker',
         title: 'The Charlie Parker Story',
         releaseYear: 1956,
         cover: 'https://upload.wikimedia.org/wikipedia/en/a/ae/Charlie_Parker_Story.jpg',
@@ -980,6 +1037,7 @@ module.exports = [
       },
       {
         id: 1203,
+        albumArtist: 'Charlie Parker & Dizzy Gillespie',
         title: 'Bird and Diz',
         releaseYear: 1952,
         cover: 'https://upload.wikimedia.org/wikipedia/en/f/f2/Bird%26Diz.png',
@@ -999,6 +1057,7 @@ module.exports = [
       },
       {
         id: 1204,
+        albumArtist: 'Charlie Parker',
         title: 'Swedish Schnapps',
         releaseYear: 1958,
         cover: 'https://upload.wikimedia.org/wikipedia/en/c/c1/SwedishSchnapps.jpg',
@@ -1024,6 +1083,7 @@ module.exports = [
     albums: [
       {
         id: 1301,
+        albumArtist: 'Count Basie and His Orchestra',
         title: 'April in Paris',
         releaseYear: 1957,
         cover: 'https://upload.wikimedia.org/wikipedia/en/0/0b/April_in_Paris_%28album%29.jpg',
@@ -1050,6 +1110,7 @@ module.exports = [
       },
       {
         id: 1302,
+        albumArtist: 'Count Basie and His Orchestra',
         title: 'The Atomic Mr. Basie',
         releaseYear: 1958,
         cover: 'https://upload.wikimedia.org/wikipedia/en/d/dd/The_Complete_Atomic_Basie.jpg',
@@ -1075,6 +1136,7 @@ module.exports = [
       },
       {
         id: 1303,
+        albumArtist: 'Count Basie and His Orchestra',
         title: 'Count Basie at Newport',
         releaseYear: 1957,
         cover: 'https://upload.wikimedia.org/wikipedia/en/3/3c/At_Newport_The_Count.jpg',
@@ -1113,6 +1175,7 @@ module.exports = [
     albums: [
       {
         id: 1401,
+        albumArtist: 'McCoy Tyner',
         title: 'Sahara',
         releaseYear: 1972,
         cover: 'https://upload.wikimedia.org/wikipedia/en/b/b2/Sahara_%28McCoy_Tyner_album%29.jpg',
@@ -1125,6 +1188,7 @@ module.exports = [
       },
       {
         id: 1402,
+        albumArtist: 'McCoy Tyner',
         title: 'Enlightenment',
         releaseYear: 1973,
         cover: 'https://upload.wikimedia.org/wikipedia/en/9/96/Enlightenment_%28McCoy_Tyner_album%29.jpg',
@@ -1145,6 +1209,7 @@ module.exports = [
     albums: [
       {
         id: 1501,
+        albumArtist: 'Ornette Coleman',
         title: 'The Shape of Jazz to Come',
         releaseYear: 1959,
         cover: 'https://upload.wikimedia.org/wikipedia/en/c/c9/ShapeOfJazzToCome.jpg',
@@ -1157,6 +1222,7 @@ module.exports = [
       },
       {
         id: 1502,
+        albumArtist: 'Ornette Coleman',
         title: 'Free Jazz: A Collective Improvisation',
         releaseYear: 1961,
         cover: 'https://upload.wikimedia.org/wikipedia/en/6/6c/Free_Jazz_-_A_Collective_Improvisation.jpg',
@@ -1173,7 +1239,8 @@ module.exports = [
       },
       {
         id: 1503,
-        title: 'At the "Golden Cirle" Stockholm',
+        albumArtist: 'Ornette Coleman Trio',
+        title: 'At the "Golden Circle" Stockholm',
         releaseYear: 1966,
         cover: 'https://upload.wikimedia.org/wikipedia/en/1/13/OrnetteColemanGoldenCirclecover.jpg',
         musicians: [

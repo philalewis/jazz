@@ -10,6 +10,7 @@ app.use(cors());
 app.set('port', process.env.PORT || 3000);
 app.locals.title = 'Jazz Musicians';
 
+// GETS
 app.get('/api/v1/musicians', (request, response) => {
   const jazzData = app.locals.jazzData
   const names = app.locals.jazzData.map(musician => {
@@ -35,6 +36,7 @@ app.get('/api/v1/album/:id', (request, response) => {
   !artistAlbum ? response.sendStatus(404) : response.status(200).json(artistAlbum)
 })
 
+// POSTS
 app.post('/api/v1/musicians', (request, response) => {
   const id = Date.now()
   const musician = request.body
@@ -69,26 +71,3 @@ app.post('/api/v1/musicians/:id', (request, response) => {
 app.listen(app.get('port'), () => {
   console.log(`${app.locals.title} is running on http://localhost:${app.get('port')}.`);
 });
-
-// Test data:
-
-// Miles Davis album:
-// {
-//   "title": "Jack Johnson",
-//   "releaseYear": "1971",
-//   "musicians": [
-//       {"name": "Miles Davis", "instrument": "trumpet"},
-//       {"name": "Steve Grossman", "instrument": "soprano saxophone"},
-//       {"name": "John McLaughlin", "instrument": "electric guitar"},
-//       {"name": "Herbie Hancock", "instrument": "organ"},
-//       {"name": "Michael Henderson", "instrument": "electric bass"},
-//       {"name": "Billy Cobham", "insturment": "drums"},
-//       {"name": "Brock Peters", "instrument": "narration"}
-//   ]
-// }
-
-// New musician (Wynton Kelley)
-// {
-//   name: 'Wynton Kelley',
-//   instrument: 'piano',
-// }
