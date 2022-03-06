@@ -248,7 +248,7 @@ module.exports = [
         releaseYear: 1963,
         cover: 'https://upload.wikimedia.org/wikipedia/en/5/5c/Impressions_cover.jpg',
         musicians: [
-          {name: 'John Coltrane', instrument: 'soprano and tenor saxophone'},
+          {name: 'John Coltrane', instrument: 'soprano saxophone, tenor saxophone'},
           {name: 'Eric Dolphy', instrument: 'bass clarinet'},
           {name: 'McCoy Tyner', instrument: 'paino'},
           {name: 'Jimmy Garrison', instrument: 'double bass'},
@@ -264,7 +264,7 @@ module.exports = [
         releaseYear: 1965,
         cover: 'https://upload.wikimedia.org/wikipedia/en/9/9a/John_Coltrane_-_A_Love_Supreme.jpg',
         musicians: [
-          {name: 'John Coltrane', instrument: 'soprano and tenor saxophone'},
+          {name: 'John Coltrane', instrument: 'soprano saxophone, tenor saxophone'},
           {name: 'Jimmy Garrison', instrument: 'double bass'},
           {name: 'Elvin Jones', instrument: 'drums, gong, timpani'},
           {name: 'McCoy Tyner', instrument: 'piano'}

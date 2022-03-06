@@ -43,12 +43,12 @@ app.get('/api/v1/appearances/:name', (request, response) => {
     artist.albums.forEach(album => {
       let included = false;
       album.musicians.forEach(musician => {
-        musician.name === name ? included = true : null
+        musician.name.toLowerCase().includes(name.toLowerCase()) ? included = true : null
       })
       included ? appearances.push(album) : null
     })
   })
-  !appearances.length ? response.sendStatus(404) : response.status(200).json(appearances)
+  response.status(200).json(appearances)
 })
 
 // POSTS
